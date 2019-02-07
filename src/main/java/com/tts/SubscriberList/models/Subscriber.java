@@ -92,9 +92,9 @@ public class Subscriber {
 		return signedUp;
 	}
 
-	public void setSignedUp(Date signedUp) {
-		this.signedUp = signedUp;
-	}
+//	public void setSignedUp(Date signedUp) {
+//		this.signedUp = signedUp;
+//	}
 
 	@Override
 	public String toString() {
